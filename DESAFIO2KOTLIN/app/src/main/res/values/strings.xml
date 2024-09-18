@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Desafio2</string>
+    <string name="MENU">Menú</string>
+
+    <!-- Historial de Compras -->
+    <string name="history_title">Historial de Compras</string>
+
+    <!-- MainActivity (Login) -->
+    <string name="login_username_hint">Nombre de usuario</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_button">Registrarse</string>
+
+    <!-- Menú -->
+    <string name="menu_title">Menú</string>
+    <string name="view_order_button">Ver Orden</string>
+
+    <!-- Elementos del Menú -->
+    <string name="item_name">Nombre del producto</string>
+    <string name="item_price">Precio</string>
+    <string name="item_quantity">Cantidad</string>
+    <string name="item_add_button">Añadir</string>
+    <string name="item_remove_button">Eliminar</string>
+
+    <!-- Ordenes -->
+    <string name="order_summary">Resumen de tu orden</string>
+    <string name="order_total">Total: $0.00</string>
+    <string name="confirm_order_button">Confirmar Orden</string>
+
+    <!-- Registro -->
+    <string name="register_title">Registro</string>
+    <string name="register_username_hint">Nombre de usuario</string>
+    <string name="register_password_hint">Contraseña</string>
+    <string name="register_button_text">Registrar</string>
+</resources>
